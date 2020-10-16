@@ -1,5 +1,5 @@
 
-# lskdf
+# bs
 
 # Table of Contents
 - [Description](#description)
@@ -12,19 +12,20 @@
 ## Description: 
     undefined
 ## Installation:
-    sdf
+    asf
 ## Usage:
-    sdf
+    asdf
 ## Contributions:
-    sdf
+    asdf
 ## License:
-    
+    The Licence used was: 
+    for licence details
+-[Licence](https://opensource.org/licenses/)
 ## Questions:
     If you have any furter questions please contact the following email address:
-    email: beni.mahat@gmail.com
+    email: 
 
-    visit github porfile for more projects:
+    visit the bellow link to my github porfile for more projects:
 -[Github Profile](https://www.github.com/benimahat1291)
-    
     
     

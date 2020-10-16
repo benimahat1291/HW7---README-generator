@@ -79,12 +79,14 @@ function writeReadme(response) {
 ## Contributions:
     ${response.contributors}
 ## License:
-    ${response.licence}
+    The Licence used was: ${response.licence}
+    for licence details
+-[Licence](https://opensource.org/licenses/${response.licence})
 ## Questions:
     If you have any furter questions please contact the following email address:
     email: ${response.email}
 
-    visit github porfile for more projects:
+    visit the bellow link to my github porfile for more projects:
 -[Github Profile](https://www.github.com/${response.username})
     
     `;
