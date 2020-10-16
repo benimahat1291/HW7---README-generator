@@ -81,8 +81,10 @@ function writeReadme(response) {
     ## License:
         ${response.licence}
     ## Questions:
+        If you have any furter questions please contact the following email address:
         ${response.email}
-        ${response.username}
+        visit github porfile for more projects:
+        [Github] (https://www.github.com/${response.username})
     
     `;
 };
