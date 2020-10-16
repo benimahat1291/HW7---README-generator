@@ -62,7 +62,7 @@ function writeReadme(response) {
     return `
     # ${response.title}
 
-    #Table of Contents
+    # Table of Contents
     - [Description](#description)
     - [Installation](#installation)
     - [Usage](#usage)
