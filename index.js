@@ -98,7 +98,7 @@ function init(questions) {
     inquirer.prompt(questions).then( response => {
         try{
             const readme = writeReadme(response);
-            fs.writeFileSync("README.md", readme);
+            fs.writeFileSync("Generated_README.md", readme);
             console.log("It works");
         }catch(err){
             console.log(err)
