@@ -60,31 +60,32 @@ const questions = [
 // function to write README file
 function writeReadme(response) {
     return `
-    # ${response.title}
+# ${response.title}
 
-    # Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributions](#contributions)
-    - [Licence](#licence)
-    - [Questions](#questions)
+# Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Licence](#licence)
+- [Questions](#questions)
 
-    ## Description: 
-        ${response.description}
-    ## Installation:
-        ${response.instalation}
-    ## Usage:
-        ${response.usage}
-    ## Contributions:
-        ${response.contributors}
-    ## License:
-        ${response.licence}
-    ## Questions:
-        If you have any furter questions please contact the following email address:
-        ${response.email}
-        visit github porfile for more projects:
-        [Github] (https://www.github.com/${response.username})
+## Description: 
+    ${response.description}
+## Installation:
+    ${response.instalation}
+## Usage:
+    ${response.usage}
+## Contributions:
+    ${response.contributors}
+## License:
+    ${response.licence}
+## Questions:
+    If you have any furter questions please contact the following email address:
+    email: ${response.email}
+    
+    visit github porfile for more projects:
+-[Github](https://www.github.com/${response.username})
     
     `;
 };
