@@ -70,7 +70,7 @@ function writeReadme(response) {
 - [Licence](#licence)
 - [Questions](#questions)
 
-## Description: 
+## Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     ${response.description}
 ## Installation:
     ${response.installation}
@@ -79,7 +79,8 @@ function writeReadme(response) {
 ## Contributions:
     ${response.contributors}
 ## License:
-
+    The licence used was: ${response.licence}
+    Click on licence badge for licence details:
 [![License: MIT](https://img.shields.io/badge/License-${response.licence}-yellow.svg)](https://opensource.org/licenses/${response.licence})
 
 ## Questions:

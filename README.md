@@ -1,5 +1,5 @@
 
-# lasdf
+# lkasjf
 
 # Table of Contents
 - [Description](#description)
@@ -9,16 +9,17 @@
 - [Licence](#licence)
 - [Questions](#questions)
 
-## Description: 
+## Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     undefined
 ## Installation:
     asdf
 ## Usage:
-    adf
+    asdf
 ## Contributions:
     asdf
 ## License:
-
+    The licence used was: MIT
+    Click on licence badge for licence details:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions:
@@ -26,6 +27,6 @@
     email: asdf
 
     visit the bellow link to my github porfile for more projects:
--[Github Profile](https://www.github.com/)
+-[Github Profile](https://www.github.com/asdf)
     
     
