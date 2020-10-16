@@ -73,7 +73,7 @@ function writeReadme(response) {
 ## Description: 
     ${response.description}
 ## Installation:
-    ${response.instalation}
+    ${response.installation}
 ## Usage:
     ${response.usage}
 ## Contributions:
@@ -83,9 +83,9 @@ function writeReadme(response) {
 ## Questions:
     If you have any furter questions please contact the following email address:
     email: ${response.email}
-    
+
     visit github porfile for more projects:
--[Github](https://www.github.com/${response.username})
+-[Github Profile](https://www.github.com/${response.username})
     
     `;
 };
