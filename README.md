@@ -1,5 +1,5 @@
 
-# README file generator
+# Read me generator 
 
 # Table of Contents
 - [Description](#description)
@@ -12,11 +12,11 @@
 ## Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     undefined
 ## Installation:
-    To insure you have this working fully functional make your you have the following file (index.js, package.json) when you have these files in your directory make sure to run the npm install so that you have access to inquirer. 
+    make sure you have (index.js, package.json) in your directory. instal with npm 
 ## Usage:
-    To load the file, make sure you have node.js installed and made avaiable in your termanal. use the comand (node index.js) to run the program. Then answer the prompts and press enter to move through the promts. For checkbox selections use spacebar and enter.
+    to use this file run with node index.js, run through the promts using enter. press spacebar to select checkbox options
 ## Contributions:
-    Beni Mahat > this was an individual project
+    beni mahat (this was an individual assginment)
 ## License:
     The licence used was: MIT
     Click on licence badge for licence details:
