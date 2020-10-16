@@ -1,5 +1,5 @@
 
-# Read me generator 
+# README generator
 
 # Table of Contents
 - [Description](#description)
@@ -12,11 +12,11 @@
 ## Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     undefined
 ## Installation:
-    make sure you have (index.js, package.json) in your directory. instal with npm 
+    Make sure you have(index.js, package.json) run npm install to get nodes_modules
 ## Usage:
-    to use this file run with node index.js, run through the promts using enter. press spacebar to select checkbox options
+    to run program run node index.js in terminal, press enter to run though promts, press spacebar to select checkbox
 ## Contributions:
-    beni mahat (this was an individual assginment)
+    beni mahat > indiviaul project
 ## License:
     The licence used was: MIT
     Click on licence badge for licence details:
