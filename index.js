@@ -31,7 +31,7 @@ const questions = [
     },
     {
         type:"checkbox",
-        message: "Enter a description for your READme",
+        message: "Select your Licence",
         choices: [
             "MIT",
             "Appache",
@@ -79,9 +79,9 @@ function writeReadme(response) {
 ## Contributions:
     ${response.contributors}
 ## License:
-    The Licence used was: ${response.licence}
-    for licence details
--[Licence](https://opensource.org/licenses/${response.licence})
+
+[![License: MIT](https://img.shields.io/badge/License-${response.licence}-yellow.svg)](https://opensource.org/licenses/${response.licence})
+
 ## Questions:
     If you have any furter questions please contact the following email address:
     email: ${response.email}
