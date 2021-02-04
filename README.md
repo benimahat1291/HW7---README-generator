@@ -1,8 +1,6 @@
 
 # Read-Me Generator
 
-# Express: Employee tracker
-
 ## Table of Contents
 
 * [Description](#description)
@@ -14,8 +12,7 @@
 * [Questions](#questions)
 
 ## Description
-
-    This is a node application that uses inquirer to prompt the user with questions about the readme file. Once the pormpts are complete and all the questions are answered a readme file is written to your directory with the name "Generated_README.md
+This is a node application that uses inquirer to prompt the user with questions about the readme file. Once the pormpts are complete and all the questions are answered a readme file is written to your directory with the name "Generated_README.md
 
 
 ## Links
@@ -34,11 +31,11 @@
 
 ## Installation Instructions
 
-    run "node index.js" in the command line
+run "node index.js" in the command line
 
 ## Usage
 
-    Run though the promts using enter to submit your entry, up and down arrow to navigate, and spacebar to select.
+Run though the promts using enter to submit your entry, up and down arrow to navigate, and spacebar to select.
  
 
 ## Technologies Used
@@ -47,10 +44,7 @@ node, express, inquirer, javascript
 
 ## Questions
 
-    If you have any furter questions please contact the following email address:
-    email: beni.mahat@gmail.com
+If you have further projects and questions, you can find me on Github: [GITHUB](https://github.com/benimahat1291). 
+please visit my portfolio to find contact information: [BENI MAHAT](https://benimahat1291.github.io/Portfolio_v2/#/). 
 
-    visit the bellow link to my github porfile for more projects:
--[Github Profile](https://www.github.com/benimahat1291)
-    
 
